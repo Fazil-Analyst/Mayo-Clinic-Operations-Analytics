@@ -46,5 +46,5 @@ This repository contains a Power BI project analyzing Mayo Clinic’s clinical t
 
 🖼️ Screenshots & Demos
 
-* **Dashboard Snapshot – Healthcare Operations Analytics:** Mayo-Clinic-Operations-Analytics-dashboard_snapshot.png
+* **Dashboard Snapshot – Healthcare Operations Analytics:** https://github.com/Fazil-Analyst/Mayo-Clinic-Operations-Analytics/blob/main/Mayo-Clinic-Operations-Analytics-dashboard_snapshot.png
 * **Pipeline Flow:** CSV → Python ETL → SQL → Power BI → Dashboard
