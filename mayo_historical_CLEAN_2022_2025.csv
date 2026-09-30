@@ -1,0 +1,801 @@
+Encounter_Date,Hospital_Name,Department,Length_of_Stay_Days,Gross_Billing_USD
+2022-10-16,Mayo Clinic (Rochester),Cardiology,5,6083
+2025-12-29,Mayo Clinic,Oncology,7,4758
+2022-04-12,Mayo Clinic,Oncology,4,10233
+2024-12-19,Mayo Clinic (Rochester),Orthopedics,6,10340
+2022-07-17,Mayo Clinic (Rochester),Oncology,5,2991
+2022-09-08,Mayo Clinic (Rochester),Oncology,6,5571
+2022-02-04,Mayo Clinic (Rochester),Orthopedics,8,2972
+2023-11-28,Mayo Clinic,Oncology,6,8191
+2022-03-13,Mayo Clinic,Cardiology,7,6959
+2024-12-11,Mayo Clinic,Neurology,5,14964
+2025-11-23,Mayo Clinic,Oncology,7,7762
+2024-12-08,Mayo Clinic,Oncology,9,6638
+2023-12-22,Mayo Clinic (Rochester),Orthopedics,5,0
+2023-01-02,Mayo Clinic,Neurology,6,8074
+2022-10-24,Mayo Clinic,Neurology,7,11510
+2024-04-18,Mayo Clinic,Cardiology,2,4206
+2024-04-12,Mayo Clinic (Rochester),Orthopedics,2,4621
+2022-09-19,Mayo Clinic,Cardiology,8,3499
+2025-05-30,Mayo Clinic (Rochester),Oncology,4,13661
+2025-09-11,Mayo Clinic,Cardiology,4,0
+2024-03-30,Mayo Clinic,Neurology,4,7532
+2023-04-17,Mayo Clinic,Orthopedics,5,9040
+2023-02-17,Mayo Clinic,Cardiology,3,2117
+2025-10-07,Mayo Clinic (Rochester),Oncology,2,8175
+2023-11-04,Mayo Clinic (Rochester),Orthopedics,5,4282
+2023-01-29,Mayo Clinic (Rochester),Oncology,2,13929
+2025-05-05,Mayo Clinic (Rochester),Oncology,7,10709
+2024-05-04,Mayo Clinic (Rochester),Oncology,6,13630
+2025-03-30,Mayo Clinic,Cardiology,7,13876
+2023-12-03,Mayo Clinic (Rochester),Orthopedics,8,12802
+2024-01-01,Mayo Clinic,Cardiology,4,4851
+2024-11-27,Mayo Clinic,Cardiology,6,14722
+2024-11-27,Mayo Clinic (Rochester),Neurology,5,4328
+2024-05-02,Mayo Clinic,Orthopedics,6,10605
+2024-02-07,Mayo Clinic,Neurology,5,7509
+2024-02-24,Mayo Clinic,Orthopedics,2,12475
+2023-06-27,Mayo Clinic,Oncology,6,6765
+2022-12-09,Mayo Clinic (Rochester),Orthopedics,5,4404
+2023-07-26,Mayo Clinic (Rochester),Orthopedics,8,13410
+2025-03-23,Mayo Clinic,Cardiology,4,7552
+2025-02-19,Mayo Clinic,Neurology,4,7850
+2025-05-13,Mayo Clinic (Rochester),Cardiology,9,4268
+2025-03-28,Mayo Clinic (Rochester),Orthopedics,4,4068
+2022-11-23,Mayo Clinic (Rochester),Orthopedics,2,6969
+2023-11-01,Mayo Clinic (Rochester),Orthopedics,5,6866
+2025-02-18,Mayo Clinic (Rochester),Neurology,8,9690
+2024-04-14,Mayo Clinic (Rochester),Neurology,7,10197
+2024-07-18,Mayo Clinic (Rochester),Neurology,9,7213
+2022-07-21,Mayo Clinic,Orthopedics,4,3427
+2024-04-24,Mayo Clinic (Rochester),Orthopedics,3,0
+2024-02-13,Mayo Clinic,Oncology,3,3240
+2022-12-06,Mayo Clinic,Orthopedics,4,3682
+2025-12-27,Mayo Clinic,Neurology,5,13808
+2024-07-08,Mayo Clinic,Cardiology,9,10297
+2024-11-14,Mayo Clinic,Oncology,9,7384
+2023-07-14,Mayo Clinic (Rochester),Cardiology,9,2200
+2025-11-28,Mayo Clinic (Rochester),Neurology,3,5145
+2022-03-19,Mayo Clinic,Orthopedics,3,6361
+2023-10-10,Mayo Clinic (Rochester),Oncology,5,11330
+2025-03-31,Mayo Clinic (Rochester),Neurology,9,7135
+2022-05-21,Mayo Clinic,Oncology,2,3681
+2022-09-30,Mayo Clinic,Neurology,8,9789
+2022-04-12,Mayo Clinic,Cardiology,4,3164
+2022-09-18,Mayo Clinic,Orthopedics,2,8197
+2022-09-11,Mayo Clinic (Rochester),Cardiology,8,11889
+2023-10-09,Mayo Clinic (Rochester),Oncology,9,3599
+2022-05-10,Mayo Clinic,Cardiology,2,11497
+2023-01-12,Mayo Clinic,Oncology,2,5316
+2025-01-30,Mayo Clinic (Rochester),Oncology,5,9065
+2022-11-08,Mayo Clinic (Rochester),Oncology,7,10595
+2023-02-01,Mayo Clinic (Rochester),Neurology,6,5103
+2023-01-17,Mayo Clinic,Cardiology,3,0
+2024-03-13,Mayo Clinic,Neurology,8,14126
+2023-11-04,Mayo Clinic (Rochester),Oncology,8,12946
+2022-02-19,Mayo Clinic (Rochester),Oncology,8,11110
+2022-06-28,Mayo Clinic (Rochester),Neurology,3,5200
+2024-08-18,Mayo Clinic (Rochester),Cardiology,4,9514
+2023-07-30,Mayo Clinic,Cardiology,4,14369
+2022-08-22,Mayo Clinic,Cardiology,2,4937
+2025-07-19,Mayo Clinic,Cardiology,8,14744
+2025-09-07,Mayo Clinic (Rochester),Cardiology,7,8507
+2025-12-04,Mayo Clinic,Orthopedics,6,3562
+2025-03-14,Mayo Clinic (Rochester),Cardiology,2,12184
+2025-08-21,Mayo Clinic (Rochester),Cardiology,7,14300
+2023-10-03,Mayo Clinic (Rochester),Neurology,7,5311
+2023-01-02,Mayo Clinic,Orthopedics,3,2780
+2022-01-18,Mayo Clinic (Rochester),Oncology,4,0
+2022-12-28,Mayo Clinic (Rochester),Neurology,9,6672
+2025-03-26,Mayo Clinic,Neurology,3,0
+2024-06-01,Mayo Clinic (Rochester),Orthopedics,6,14125
+2024-03-20,Mayo Clinic,Cardiology,8,13259
+2023-10-15,Mayo Clinic (Rochester),Neurology,2,3920
+2024-06-01,Mayo Clinic (Rochester),Cardiology,6,12252
+2022-10-04,Mayo Clinic (Rochester),Oncology,8,6365
+2025-05-04,Mayo Clinic,Oncology,8,4944
+2022-03-20,Mayo Clinic,Oncology,9,3477
+2022-03-14,Mayo Clinic,Oncology,2,13483
+2025-03-01,Mayo Clinic (Rochester),Orthopedics,9,3977
+2025-11-29,Mayo Clinic (Rochester),Neurology,3,13487
+2024-02-13,Mayo Clinic,Neurology,4,7692
+2025-11-08,Mayo Clinic (Rochester),Cardiology,4,0
+2023-10-28,Mayo Clinic (Rochester),Neurology,9,14267
+2024-02-19,Mayo Clinic (Rochester),Cardiology,6,6028
+2023-03-17,Mayo Clinic,Cardiology,6,3519
+2023-08-27,Mayo Clinic,Neurology,5,5441
+2023-03-07,Mayo Clinic,Neurology,8,12788
+2024-07-01,Mayo Clinic (Rochester),Oncology,2,2413
+2023-12-31,Mayo Clinic (Rochester),Cardiology,6,6298
+2022-11-20,Mayo Clinic,Orthopedics,5,8518
+2022-02-28,Mayo Clinic,Neurology,3,7421
+2022-12-21,Mayo Clinic (Rochester),Oncology,9,7355
+2022-03-06,Mayo Clinic,Oncology,8,9584
+2025-08-15,Mayo Clinic (Rochester),Neurology,8,4074
+2022-10-05,Mayo Clinic (Rochester),Orthopedics,3,12768
+2022-10-12,Mayo Clinic (Rochester),Cardiology,9,7243
+2022-10-04,Mayo Clinic,Cardiology,2,5620
+2025-07-14,Mayo Clinic (Rochester),Neurology,6,4647
+2022-02-28,Mayo Clinic,Oncology,6,8812
+2024-12-10,Mayo Clinic (Rochester),Oncology,3,10693
+2025-02-05,Mayo Clinic (Rochester),Neurology,7,12867
+2025-05-15,Mayo Clinic (Rochester),Cardiology,6,7891
+2023-02-17,Mayo Clinic (Rochester),Cardiology,2,8153
+2023-08-24,Mayo Clinic (Rochester),Cardiology,9,13907
+2022-02-10,Mayo Clinic (Rochester),Neurology,6,9857
+2025-02-05,Mayo Clinic,Neurology,8,11801
+2022-11-13,Mayo Clinic,Neurology,7,4269
+2025-10-05,Mayo Clinic,Neurology,2,11260
+2023-01-04,Mayo Clinic,Oncology,4,12568
+2022-09-20,Mayo Clinic,Orthopedics,9,7382
+2024-12-20,Mayo Clinic (Rochester),Orthopedics,4,9283
+2023-08-20,Mayo Clinic,Orthopedics,2,12524
+2023-12-28,Mayo Clinic,Cardiology,5,8893
+2024-01-14,Mayo Clinic (Rochester),Cardiology,4,14709
+2022-08-27,Mayo Clinic (Rochester),Oncology,7,0
+2022-12-02,Mayo Clinic (Rochester),Cardiology,3,8789
+2022-01-02,Mayo Clinic,Oncology,6,13374
+2025-04-30,Mayo Clinic,Orthopedics,8,2953
+2025-08-23,Mayo Clinic (Rochester),Oncology,6,10423
+2025-04-07,Mayo Clinic,Neurology,3,10682
+2023-08-20,Mayo Clinic,Cardiology,3,7639
+2022-12-12,Mayo Clinic,Oncology,6,13798
+2025-12-21,Mayo Clinic,Neurology,9,14830
+2024-11-29,Mayo Clinic,Orthopedics,2,4612
+2022-08-05,Mayo Clinic,Neurology,3,7466
+2025-07-23,Mayo Clinic,Oncology,3,5342
+2025-06-24,Mayo Clinic (Rochester),Cardiology,3,3296
+2025-10-12,Mayo Clinic (Rochester),Oncology,7,6851
+2025-04-06,Mayo Clinic (Rochester),Cardiology,6,4548
+2025-02-03,Mayo Clinic (Rochester),Oncology,2,6323
+2023-06-14,Mayo Clinic,Oncology,4,4975
+2024-06-07,Mayo Clinic (Rochester),Cardiology,8,12521
+2025-09-07,Mayo Clinic,Cardiology,2,9954
+2024-08-03,Mayo Clinic (Rochester),Neurology,8,11980
+2022-02-25,Mayo Clinic,Neurology,9,6267
+2025-09-20,Mayo Clinic,Cardiology,5,9726
+2023-06-17,Mayo Clinic,Neurology,5,14541
+2025-07-28,Mayo Clinic,Oncology,6,11275
+2023-02-11,Mayo Clinic (Rochester),Cardiology,6,0
+2025-09-15,Mayo Clinic (Rochester),Oncology,5,6269
+2023-03-25,Mayo Clinic,Neurology,9,4791
+2025-03-08,Mayo Clinic,Cardiology,3,9400
+2024-01-16,Mayo Clinic (Rochester),Cardiology,7,9717
+2024-11-30,Mayo Clinic (Rochester),Oncology,8,6386
+2022-05-30,Mayo Clinic (Rochester),Cardiology,4,12234
+2023-09-21,Mayo Clinic (Rochester),Orthopedics,2,5380
+2022-06-02,Mayo Clinic,Cardiology,7,7402
+2024-01-09,Mayo Clinic (Rochester),Cardiology,8,0
+2022-04-05,Mayo Clinic (Rochester),Cardiology,6,7811
+2022-04-19,Mayo Clinic,Neurology,3,14885
+2022-02-26,Mayo Clinic (Rochester),Cardiology,8,13433
+2023-12-14,Mayo Clinic,Neurology,2,0
+2025-01-18,Mayo Clinic,Neurology,6,6501
+2024-09-11,Mayo Clinic (Rochester),Neurology,5,0
+2023-11-19,Mayo Clinic,Orthopedics,3,10424
+2022-02-09,Mayo Clinic,Neurology,2,3617
+2025-07-22,Mayo Clinic,Neurology,8,5284
+2025-10-26,Mayo Clinic (Rochester),Orthopedics,3,2066
+2024-07-15,Mayo Clinic,Neurology,4,9150
+2025-07-10,Mayo Clinic (Rochester),Oncology,6,3596
+2022-06-11,Mayo Clinic,Cardiology,8,9957
+2024-01-01,Mayo Clinic (Rochester),Cardiology,2,12985
+2023-10-02,Mayo Clinic (Rochester),Neurology,3,6870
+2023-09-11,Mayo Clinic,Oncology,9,7456
+2022-07-29,Mayo Clinic (Rochester),Orthopedics,4,14678
+2025-10-14,Mayo Clinic,Orthopedics,2,9987
+2023-05-18,Mayo Clinic,Neurology,2,2378
+2025-05-13,Mayo Clinic (Rochester),Neurology,3,3415
+2022-12-09,Mayo Clinic (Rochester),Neurology,7,12727
+2024-05-30,Mayo Clinic,Orthopedics,5,2112
+2022-01-18,Mayo Clinic (Rochester),Orthopedics,3,9176
+2025-09-30,Mayo Clinic (Rochester),Oncology,8,14055
+2025-10-05,Mayo Clinic (Rochester),Oncology,4,5485
+2024-05-08,Mayo Clinic,Neurology,6,0
+2025-12-03,Mayo Clinic,Oncology,9,5360
+2025-09-18,Mayo Clinic (Rochester),Cardiology,6,11784
+2023-02-26,Mayo Clinic,Cardiology,4,4543
+2022-12-16,Mayo Clinic,Oncology,6,14738
+2023-12-22,Mayo Clinic,Cardiology,4,11050
+2025-08-19,Mayo Clinic (Rochester),Orthopedics,6,3148
+2024-08-19,Mayo Clinic,Cardiology,5,13914
+2023-10-07,Mayo Clinic (Rochester),Neurology,8,2605
+2023-05-03,Mayo Clinic (Rochester),Oncology,8,3943
+2025-06-15,Mayo Clinic (Rochester),Cardiology,8,6582
+2022-03-01,Mayo Clinic,Orthopedics,3,8072
+2025-01-25,Mayo Clinic,Orthopedics,6,9525
+2023-07-09,Mayo Clinic,Cardiology,9,11678
+2022-05-19,Mayo Clinic,Cardiology,3,11963
+2022-08-27,Mayo Clinic (Rochester),Neurology,3,14077
+2025-11-14,Mayo Clinic (Rochester),Cardiology,4,11486
+2022-12-29,Mayo Clinic,Cardiology,2,2809
+2025-11-12,Mayo Clinic (Rochester),Orthopedics,9,5981
+2023-08-21,Mayo Clinic,Neurology,5,14698
+2025-01-05,Mayo Clinic,Neurology,2,12738
+2023-04-26,Mayo Clinic (Rochester),Oncology,4,0
+2025-08-29,Mayo Clinic,Oncology,4,6257
+2023-04-08,Mayo Clinic,Oncology,5,9988
+2023-09-05,Mayo Clinic (Rochester),Neurology,4,5846
+2022-12-20,Mayo Clinic,Oncology,7,10397
+2024-04-09,Mayo Clinic (Rochester),Orthopedics,5,10987
+2023-07-13,Mayo Clinic,Oncology,5,14264
+2025-06-17,Mayo Clinic (Rochester),Orthopedics,9,0
+2023-03-27,Mayo Clinic (Rochester),Neurology,3,6035
+2022-11-08,Mayo Clinic (Rochester),Oncology,7,3941
+2024-09-15,Mayo Clinic,Orthopedics,9,4433
+2022-01-24,Mayo Clinic (Rochester),Neurology,2,9583
+2023-01-09,Mayo Clinic (Rochester),Orthopedics,9,7740
+2024-05-31,Mayo Clinic,Neurology,4,13931
+2022-03-24,Mayo Clinic (Rochester),Neurology,9,2968
+2023-03-19,Mayo Clinic,Neurology,8,14496
+2023-12-01,Mayo Clinic (Rochester),Oncology,9,3145
+2024-02-08,Mayo Clinic,Cardiology,3,9062
+2024-07-23,Mayo Clinic,Cardiology,7,3325
+2024-09-16,Mayo Clinic (Rochester),Oncology,6,12458
+2024-02-10,Mayo Clinic (Rochester),Oncology,5,6071
+2022-11-15,Mayo Clinic,Cardiology,8,13400
+2024-09-09,Mayo Clinic (Rochester),Oncology,5,8977
+2024-07-16,Mayo Clinic (Rochester),Cardiology,7,8574
+2025-09-07,Mayo Clinic (Rochester),Orthopedics,3,5083
+2022-10-02,Mayo Clinic,Oncology,5,7962
+2023-10-24,Mayo Clinic (Rochester),Neurology,5,5124
+2025-07-29,Mayo Clinic (Rochester),Neurology,6,4463
+2024-08-10,Mayo Clinic,Neurology,3,14025
+2023-07-25,Mayo Clinic (Rochester),Neurology,3,10119
+2024-05-14,Mayo Clinic (Rochester),Orthopedics,5,5960
+2023-10-08,Mayo Clinic (Rochester),Cardiology,6,10455
+2025-07-11,Mayo Clinic (Rochester),Cardiology,9,7960
+2024-02-14,Mayo Clinic (Rochester),Neurology,3,7096
+2022-09-15,Mayo Clinic,Orthopedics,7,8907
+2025-05-31,Mayo Clinic (Rochester),Orthopedics,8,7497
+2024-12-08,Mayo Clinic,Cardiology,4,5922
+2024-04-09,Mayo Clinic (Rochester),Oncology,5,11202
+2025-02-14,Mayo Clinic (Rochester),Orthopedics,7,3630
+2024-06-22,Mayo Clinic,Oncology,6,3389
+2025-11-22,Mayo Clinic (Rochester),Cardiology,5,2842
+2025-07-24,Mayo Clinic,Oncology,5,10032
+2022-08-20,Mayo Clinic (Rochester),Neurology,6,6638
+2024-06-22,Mayo Clinic,Cardiology,3,8901
+2025-02-21,Mayo Clinic,Neurology,9,9190
+2025-12-09,Mayo Clinic,Neurology,9,7057
+2022-04-19,Mayo Clinic,Oncology,4,11260
+2025-11-04,Mayo Clinic (Rochester),Neurology,9,0
+2023-03-06,Mayo Clinic,Cardiology,4,2966
+2022-07-02,Mayo Clinic (Rochester),Neurology,4,8972
+2022-01-01,Mayo Clinic,Cardiology,4,5547
+2025-04-15,Mayo Clinic (Rochester),Oncology,4,9779
+2024-11-15,Mayo Clinic,Cardiology,6,13122
+2023-12-09,Mayo Clinic,Cardiology,3,3492
+2024-01-09,Mayo Clinic,Cardiology,2,8904
+2024-11-27,Mayo Clinic,Oncology,8,13485
+2023-10-12,Mayo Clinic (Rochester),Cardiology,5,2755
+2024-11-15,Mayo Clinic,Orthopedics,5,5888
+2023-01-10,Mayo Clinic (Rochester),Neurology,9,5209
+2024-08-21,Mayo Clinic,Oncology,9,14651
+2023-02-26,Mayo Clinic (Rochester),Orthopedics,9,3380
+2025-01-18,Mayo Clinic,Cardiology,7,10435
+2025-02-21,Mayo Clinic (Rochester),Oncology,6,11626
+2025-01-27,Mayo Clinic,Oncology,3,14011
+2022-10-26,Mayo Clinic,Orthopedics,3,5654
+2025-10-06,Mayo Clinic (Rochester),Orthopedics,7,8038
+2024-08-16,Mayo Clinic,Neurology,4,12501
+2025-11-12,Mayo Clinic,Neurology,2,12611
+2023-03-27,Mayo Clinic (Rochester),Cardiology,7,6803
+2024-06-24,Mayo Clinic (Rochester),Oncology,5,14580
+2022-08-27,Mayo Clinic (Rochester),Oncology,7,13588
+2022-07-24,Mayo Clinic,Neurology,3,7081
+2022-12-01,Mayo Clinic (Rochester),Cardiology,4,10570
+2022-04-17,Mayo Clinic (Rochester),Oncology,8,10488
+2024-08-21,Mayo Clinic (Rochester),Cardiology,9,10300
+2025-02-17,Mayo Clinic,Oncology,4,12612
+2024-05-26,Mayo Clinic,Orthopedics,7,0
+2022-09-04,Mayo Clinic,Neurology,7,8652
+2023-03-05,Mayo Clinic,Orthopedics,3,5115
+2022-09-13,Mayo Clinic (Rochester),Orthopedics,7,13101
+2022-10-31,Mayo Clinic (Rochester),Oncology,5,13977
+2024-10-05,Mayo Clinic (Rochester),Neurology,2,12716
+2023-08-02,Mayo Clinic,Neurology,5,11564
+2025-10-28,Mayo Clinic (Rochester),Neurology,3,13310
+2023-04-07,Mayo Clinic,Orthopedics,6,13096
+2023-03-05,Mayo Clinic,Cardiology,7,8719
+2025-09-19,Mayo Clinic,Oncology,9,0
+2023-03-08,Mayo Clinic (Rochester),Cardiology,9,5559
+2022-08-03,Mayo Clinic (Rochester),Neurology,6,2256
+2024-03-29,Mayo Clinic,Oncology,2,4983
+2023-07-03,Mayo Clinic (Rochester),Cardiology,3,0
+2025-05-02,Mayo Clinic,Cardiology,8,14399
+2024-05-28,Mayo Clinic,Cardiology,9,12740
+2024-06-06,Mayo Clinic (Rochester),Oncology,9,2987
+2022-10-02,Mayo Clinic (Rochester),Neurology,3,11194
+2023-09-07,Mayo Clinic,Oncology,8,5261
+2023-09-04,Mayo Clinic (Rochester),Orthopedics,6,14944
+2022-01-23,Mayo Clinic,Neurology,5,14570
+2025-08-05,Mayo Clinic (Rochester),Cardiology,3,12810
+2025-03-06,Mayo Clinic,Neurology,9,0
+2023-12-02,Mayo Clinic (Rochester),Cardiology,4,5735
+2022-07-12,Mayo Clinic (Rochester),Neurology,9,14531
+2024-09-05,Mayo Clinic (Rochester),Oncology,3,2837
+2024-05-26,Mayo Clinic,Neurology,8,7309
+2022-02-14,Mayo Clinic,Orthopedics,5,12020
+2022-01-16,Mayo Clinic (Rochester),Oncology,8,9593
+2024-02-01,Mayo Clinic,Oncology,5,2488
+2025-04-14,Mayo Clinic,Cardiology,7,4686
+2022-08-28,Mayo Clinic (Rochester),Oncology,4,14175
+2023-10-29,Mayo Clinic (Rochester),Neurology,7,11788
+2023-01-23,Mayo Clinic,Cardiology,2,7630
+2023-08-02,Mayo Clinic,Cardiology,4,14973
+2025-04-17,Mayo Clinic,Cardiology,8,13706
+2024-03-26,Mayo Clinic (Rochester),Neurology,5,11188
+2025-05-17,Mayo Clinic,Oncology,9,14599
+2024-10-06,Mayo Clinic,Cardiology,3,6682
+2022-03-18,Mayo Clinic (Rochester),Oncology,4,12705
+2022-10-24,Mayo Clinic (Rochester),Cardiology,4,0
+2024-04-19,Mayo Clinic (Rochester),Neurology,3,2808
+2025-03-22,Mayo Clinic,Orthopedics,2,14003
+2025-09-13,Mayo Clinic (Rochester),Cardiology,6,14779
+2022-02-23,Mayo Clinic (Rochester),Orthopedics,7,13075
+2024-04-13,Mayo Clinic (Rochester),Cardiology,3,12203
+2022-08-09,Mayo Clinic (Rochester),Cardiology,4,7538
+2025-07-15,Mayo Clinic,Neurology,6,14680
+2022-03-10,Mayo Clinic (Rochester),Oncology,8,6695
+2022-11-21,Mayo Clinic,Cardiology,3,13893
+2022-02-15,Mayo Clinic,Neurology,3,12203
+2025-08-22,Mayo Clinic,Cardiology,9,3803
+2023-11-18,Mayo Clinic (Rochester),Orthopedics,8,10512
+2022-08-24,Mayo Clinic,Cardiology,6,7743
+2024-05-08,Mayo Clinic (Rochester),Orthopedics,9,13764
+2025-01-07,Mayo Clinic,Orthopedics,7,2127
+2022-04-27,Mayo Clinic (Rochester),Orthopedics,6,13788
+2022-08-30,Mayo Clinic,Cardiology,3,4320
+2023-07-31,Mayo Clinic (Rochester),Oncology,2,0
+2022-11-27,Mayo Clinic (Rochester),Cardiology,8,14486
+2025-05-02,Mayo Clinic,Neurology,7,2852
+2024-10-14,Mayo Clinic (Rochester),Neurology,2,12500
+2022-05-22,Mayo Clinic,Oncology,5,12752
+2022-06-01,Mayo Clinic (Rochester),Cardiology,2,5279
+2025-08-12,Mayo Clinic,Neurology,6,4945
+2022-08-01,Mayo Clinic (Rochester),Orthopedics,2,6659
+2022-07-19,Mayo Clinic,Orthopedics,8,14145
+2025-05-23,Mayo Clinic (Rochester),Orthopedics,8,5357
+2024-03-04,Mayo Clinic (Rochester),Oncology,7,3505
+2022-05-19,Mayo Clinic,Oncology,4,6383
+2023-09-02,Mayo Clinic (Rochester),Neurology,8,6916
+2024-01-30,Mayo Clinic,Oncology,8,9561
+2022-11-22,Mayo Clinic,Cardiology,5,9914
+2025-12-28,Mayo Clinic,Cardiology,7,5661
+2022-11-25,Mayo Clinic,Neurology,2,12673
+2024-02-13,Mayo Clinic (Rochester),Orthopedics,3,2290
+2022-11-12,Mayo Clinic,Oncology,9,13367
+2022-11-27,Mayo Clinic (Rochester),Orthopedics,6,4019
+2022-03-24,Mayo Clinic,Cardiology,4,6443
+2024-01-05,Mayo Clinic (Rochester),Orthopedics,2,11160
+2022-03-06,Mayo Clinic,Oncology,3,6403
+2024-07-04,Mayo Clinic (Rochester),Orthopedics,9,14150
+2024-04-13,Mayo Clinic (Rochester),Neurology,2,2582
+2025-07-06,Mayo Clinic (Rochester),Neurology,8,0
+2025-10-14,Mayo Clinic (Rochester),Oncology,2,14339
+2025-08-27,Mayo Clinic,Orthopedics,4,12408
+2024-10-20,Mayo Clinic,Neurology,2,10925
+2023-09-12,Mayo Clinic,Cardiology,4,12777
+2022-08-10,Mayo Clinic,Cardiology,8,7975
+2023-08-06,Mayo Clinic,Orthopedics,4,0
+2023-07-09,Mayo Clinic,Cardiology,3,7664
+2022-01-09,Mayo Clinic (Rochester),Orthopedics,7,4353
+2024-02-23,Mayo Clinic (Rochester),Cardiology,5,6391
+2023-06-10,Mayo Clinic (Rochester),Cardiology,3,8712
+2023-09-09,Mayo Clinic,Neurology,9,2714
+2022-10-11,Mayo Clinic,Neurology,5,13197
+2022-04-14,Mayo Clinic,Neurology,6,4756
+2022-10-15,Mayo Clinic,Neurology,5,4227
+2024-12-13,Mayo Clinic,Orthopedics,5,14468
+2022-09-27,Mayo Clinic (Rochester),Orthopedics,3,4544
+2025-06-17,Mayo Clinic,Oncology,4,14319
+2023-10-25,Mayo Clinic (Rochester),Orthopedics,6,10605
+2025-12-07,Mayo Clinic,Oncology,8,13125
+2024-09-04,Mayo Clinic,Oncology,6,0
+2022-07-05,Mayo Clinic,Cardiology,7,7461
+2023-06-13,Mayo Clinic (Rochester),Cardiology,6,14556
+2025-09-23,Mayo Clinic,Cardiology,4,9896
+2025-07-03,Mayo Clinic (Rochester),Cardiology,7,11907
+2025-05-19,Mayo Clinic,Orthopedics,5,7399
+2022-10-21,Mayo Clinic (Rochester),Cardiology,3,12221
+2023-07-14,Mayo Clinic,Oncology,2,5176
+2025-08-16,Mayo Clinic (Rochester),Cardiology,4,10811
+2024-04-11,Mayo Clinic,Neurology,9,9576
+2024-06-01,Mayo Clinic (Rochester),Cardiology,6,7792
+2025-01-18,Mayo Clinic,Cardiology,2,3234
+2023-03-13,Mayo Clinic (Rochester),Cardiology,3,10804
+2024-11-08,Mayo Clinic,Oncology,4,0
+2023-01-04,Mayo Clinic,Orthopedics,3,10168
+2023-08-07,Mayo Clinic,Oncology,3,4304
+2024-08-27,Mayo Clinic,Oncology,9,5985
+2025-07-24,Mayo Clinic,Oncology,2,2618
+2024-05-20,Mayo Clinic,Neurology,5,10883
+2022-10-05,Mayo Clinic,Oncology,3,12704
+2023-01-07,Mayo Clinic (Rochester),Orthopedics,2,4861
+2022-02-23,Mayo Clinic,Neurology,8,2986
+2022-12-30,Mayo Clinic,Neurology,6,13529
+2025-07-31,Mayo Clinic,Orthopedics,4,12368
+2025-06-12,Mayo Clinic (Rochester),Cardiology,3,8838
+2022-10-13,Mayo Clinic,Orthopedics,5,14620
+2024-10-18,Mayo Clinic,Cardiology,6,8421
+2024-01-11,Mayo Clinic,Cardiology,2,2809
+2023-11-29,Mayo Clinic,Cardiology,9,4977
+2025-10-16,Mayo Clinic,Oncology,3,8694
+2025-03-13,Mayo Clinic (Rochester),Oncology,6,12382
+2024-06-27,Mayo Clinic,Oncology,3,9653
+2024-10-12,Mayo Clinic,Cardiology,4,8557
+2025-10-13,Mayo Clinic,Cardiology,4,2093
+2025-02-05,Mayo Clinic (Rochester),Orthopedics,4,10021
+2023-07-23,Mayo Clinic,Orthopedics,4,2839
+2022-04-29,Mayo Clinic (Rochester),Neurology,6,5133
+2025-05-25,Mayo Clinic (Rochester),Cardiology,3,5839
+2022-01-05,Mayo Clinic (Rochester),Orthopedics,2,11684
+2024-02-05,Mayo Clinic,Neurology,4,10595
+2023-01-14,Mayo Clinic,Cardiology,8,2148
+2023-03-12,Mayo Clinic (Rochester),Oncology,5,7534
+2023-06-02,Mayo Clinic (Rochester),Neurology,7,6377
+2023-11-05,Mayo Clinic,Oncology,5,8315
+2025-01-25,Mayo Clinic,Orthopedics,5,4210
+2025-03-01,Mayo Clinic,Orthopedics,3,9602
+2024-09-23,Mayo Clinic (Rochester),Oncology,6,7289
+2022-07-03,Mayo Clinic,Oncology,5,10413
+2024-10-18,Mayo Clinic (Rochester),Cardiology,9,7522
+2023-02-15,Mayo Clinic,Neurology,9,5511
+2025-01-21,Mayo Clinic (Rochester),Oncology,3,13427
+2025-06-29,Mayo Clinic,Cardiology,3,7864
+2024-05-09,Mayo Clinic,Cardiology,4,0
+2024-10-23,Mayo Clinic (Rochester),Oncology,6,6941
+2025-11-19,Mayo Clinic,Oncology,6,5443
+2025-05-05,Mayo Clinic (Rochester),Orthopedics,5,11580
+2025-09-23,Mayo Clinic (Rochester),Orthopedics,5,14557
+2022-06-01,Mayo Clinic,Cardiology,6,9641
+2024-06-29,Mayo Clinic (Rochester),Neurology,7,6020
+2025-08-20,Mayo Clinic,Orthopedics,3,3087
+2025-04-20,Mayo Clinic,Neurology,5,10013
+2024-02-16,Mayo Clinic,Neurology,2,10367
+2025-07-22,Mayo Clinic (Rochester),Neurology,6,9248
+2024-06-25,Mayo Clinic (Rochester),Orthopedics,2,10053
+2022-08-13,Mayo Clinic (Rochester),Oncology,3,4168
+2022-05-09,Mayo Clinic (Rochester),Orthopedics,6,9473
+2023-06-26,Mayo Clinic (Rochester),Neurology,2,13713
+2024-12-08,Mayo Clinic (Rochester),Oncology,9,7379
+2022-10-21,Mayo Clinic,Neurology,2,14914
+2023-01-02,Mayo Clinic,Oncology,5,8797
+2023-02-07,Mayo Clinic (Rochester),Oncology,3,7064
+2024-04-08,Mayo Clinic (Rochester),Neurology,2,14350
+2025-08-11,Mayo Clinic (Rochester),Orthopedics,8,3375
+2024-11-06,Mayo Clinic (Rochester),Oncology,2,5853
+2022-04-28,Mayo Clinic (Rochester),Orthopedics,6,4897
+2022-09-21,Mayo Clinic,Oncology,7,8734
+2025-04-08,Mayo Clinic (Rochester),Orthopedics,6,12766
+2022-11-06,Mayo Clinic,Orthopedics,6,14766
+2025-12-05,Mayo Clinic,Orthopedics,5,10164
+2025-08-30,Mayo Clinic,Orthopedics,6,11049
+2023-11-18,Mayo Clinic,Orthopedics,8,9999
+2025-02-19,Mayo Clinic (Rochester),Cardiology,3,8022
+2025-12-19,Mayo Clinic (Rochester),Orthopedics,3,10740
+2023-04-21,Mayo Clinic (Rochester),Cardiology,3,2564
+2025-02-28,Mayo Clinic,Oncology,8,12717
+2024-03-13,Mayo Clinic,Orthopedics,6,6413
+2025-08-29,Mayo Clinic,Orthopedics,5,9639
+2024-08-04,Mayo Clinic,Oncology,6,7510
+2022-10-08,Mayo Clinic (Rochester),Orthopedics,7,14826
+2025-08-17,Mayo Clinic,Neurology,7,5535
+2022-03-17,Mayo Clinic,Orthopedics,9,3163
+2025-04-06,Mayo Clinic,Neurology,6,6012
+2022-12-20,Mayo Clinic (Rochester),Oncology,4,8246
+2023-05-27,Mayo Clinic (Rochester),Neurology,8,7556
+2024-08-15,Mayo Clinic (Rochester),Oncology,8,0
+2025-09-20,Mayo Clinic (Rochester),Cardiology,2,4985
+2025-03-31,Mayo Clinic (Rochester),Oncology,9,8048
+2022-08-15,Mayo Clinic,Oncology,7,13736
+2023-11-25,Mayo Clinic,Oncology,2,13570
+2023-08-20,Mayo Clinic,Neurology,5,10324
+2022-06-17,Mayo Clinic (Rochester),Neurology,4,2479
+2023-06-27,Mayo Clinic,Orthopedics,8,5150
+2025-06-30,Mayo Clinic,Orthopedics,9,7350
+2023-03-02,Mayo Clinic,Cardiology,6,8635
+2022-05-29,Mayo Clinic (Rochester),Neurology,7,10374
+2022-07-20,Mayo Clinic,Oncology,7,6254
+2024-06-01,Mayo Clinic,Orthopedics,3,7435
+2025-07-18,Mayo Clinic (Rochester),Neurology,9,11721
+2025-03-05,Mayo Clinic (Rochester),Neurology,7,11242
+2025-05-05,Mayo Clinic (Rochester),Neurology,3,5798
+2023-04-07,Mayo Clinic,Oncology,3,4632
+2022-03-07,Mayo Clinic (Rochester),Neurology,8,5048
+2024-12-22,Mayo Clinic,Oncology,8,5405
+2024-06-03,Mayo Clinic (Rochester),Cardiology,5,12792
+2022-12-02,Mayo Clinic,Cardiology,7,12316
+2024-03-10,Mayo Clinic (Rochester),Cardiology,9,11162
+2025-06-07,Mayo Clinic,Cardiology,9,0
+2023-07-26,Mayo Clinic,Cardiology,6,11985
+2024-01-02,Mayo Clinic (Rochester),Cardiology,7,4800
+2024-07-14,Mayo Clinic,Cardiology,2,3160
+2025-04-06,Mayo Clinic,Oncology,2,7702
+2024-12-13,Mayo Clinic (Rochester),Oncology,2,12475
+2024-01-30,Mayo Clinic (Rochester),Orthopedics,4,4604
+2022-10-27,Mayo Clinic,Cardiology,7,14160
+2025-02-13,Mayo Clinic (Rochester),Cardiology,3,0
+2022-04-24,Mayo Clinic,Neurology,3,14986
+2023-03-06,Mayo Clinic (Rochester),Neurology,9,8602
+2022-01-21,Mayo Clinic,Neurology,5,0
+2023-09-24,Mayo Clinic (Rochester),Oncology,6,10125
+2024-09-24,Mayo Clinic (Rochester),Neurology,3,7821
+2022-08-19,Mayo Clinic,Cardiology,5,0
+2022-10-04,Mayo Clinic,Oncology,8,7187
+2022-06-20,Mayo Clinic,Cardiology,2,11082
+2025-10-23,Mayo Clinic,Neurology,9,9768
+2025-05-05,Mayo Clinic (Rochester),Neurology,3,7331
+2024-03-30,Mayo Clinic,Oncology,6,5793
+2023-07-22,Mayo Clinic (Rochester),Neurology,5,10964
+2022-12-29,Mayo Clinic (Rochester),Neurology,3,12833
+2022-07-04,Mayo Clinic (Rochester),Orthopedics,2,4697
+2025-07-10,Mayo Clinic,Cardiology,8,0
+2023-12-17,Mayo Clinic,Cardiology,2,14878
+2025-12-06,Mayo Clinic (Rochester),Orthopedics,6,10909
+2024-02-05,Mayo Clinic,Cardiology,6,6681
+2025-09-28,Mayo Clinic (Rochester),Neurology,7,0
+2024-05-18,Mayo Clinic (Rochester),Oncology,8,12010
+2025-09-22,Mayo Clinic,Neurology,9,11715
+2022-08-13,Mayo Clinic,Cardiology,6,7543
+2024-05-17,Mayo Clinic,Neurology,5,3383
+2023-05-20,Mayo Clinic,Cardiology,5,5125
+2023-11-26,Mayo Clinic,Orthopedics,2,14302
+2023-04-18,Mayo Clinic,Neurology,6,2399
+2025-08-08,Mayo Clinic (Rochester),Neurology,3,3529
+2024-02-25,Mayo Clinic (Rochester),Orthopedics,4,7486
+2022-04-09,Mayo Clinic,Orthopedics,7,14993
+2022-01-11,Mayo Clinic (Rochester),Orthopedics,9,5279
+2024-11-03,Mayo Clinic (Rochester),Oncology,7,0
+2025-03-14,Mayo Clinic (Rochester),Cardiology,8,5958
+2025-09-02,Mayo Clinic,Cardiology,4,5832
+2025-02-17,Mayo Clinic (Rochester),Cardiology,4,6318
+2025-05-15,Mayo Clinic (Rochester),Neurology,7,10975
+2023-06-11,Mayo Clinic (Rochester),Orthopedics,8,3875
+2025-09-13,Mayo Clinic,Orthopedics,5,2874
+2025-02-19,Mayo Clinic,Cardiology,9,12086
+2024-04-13,Mayo Clinic,Oncology,4,6506
+2023-11-09,Mayo Clinic,Oncology,8,2948
+2022-04-27,Mayo Clinic (Rochester),Orthopedics,3,4101
+2025-08-10,Mayo Clinic (Rochester),Orthopedics,2,12852
+2025-10-02,Mayo Clinic,Orthopedics,5,6639
+2023-11-06,Mayo Clinic,Neurology,2,3977
+2022-07-29,Mayo Clinic (Rochester),Cardiology,3,11866
+2023-06-17,Mayo Clinic (Rochester),Neurology,9,7232
+2025-02-20,Mayo Clinic (Rochester),Oncology,3,2374
+2024-02-13,Mayo Clinic (Rochester),Neurology,4,12676
+2022-03-27,Mayo Clinic,Oncology,4,9828
+2025-12-13,Mayo Clinic (Rochester),Neurology,3,3754
+2025-05-16,Mayo Clinic (Rochester),Neurology,6,3106
+2025-01-26,Mayo Clinic (Rochester),Oncology,2,12013
+2022-01-08,Mayo Clinic,Cardiology,9,10816
+2022-01-22,Mayo Clinic (Rochester),Neurology,9,8912
+2022-03-25,Mayo Clinic,Orthopedics,6,3564
+2024-03-29,Mayo Clinic,Orthopedics,2,0
+2024-03-08,Mayo Clinic (Rochester),Neurology,4,5838
+2024-11-16,Mayo Clinic (Rochester),Orthopedics,8,13979
+2025-01-18,Mayo Clinic (Rochester),Orthopedics,5,8373
+2023-12-18,Mayo Clinic (Rochester),Cardiology,8,11207
+2022-08-03,Mayo Clinic,Cardiology,6,11154
+2022-10-16,Mayo Clinic,Oncology,3,14828
+2024-06-17,Mayo Clinic (Rochester),Cardiology,8,2195
+2023-02-17,Mayo Clinic,Neurology,2,8090
+2025-11-27,Mayo Clinic (Rochester),Orthopedics,4,4946
+2023-05-26,Mayo Clinic (Rochester),Neurology,9,4808
+2025-12-14,Mayo Clinic,Neurology,5,6069
+2025-11-05,Mayo Clinic (Rochester),Oncology,9,3192
+2024-01-26,Mayo Clinic,Oncology,8,14065
+2023-01-23,Mayo Clinic,Cardiology,9,4163
+2025-09-22,Mayo Clinic (Rochester),Neurology,9,14855
+2022-10-02,Mayo Clinic,Orthopedics,5,11266
+2025-09-18,Mayo Clinic,Oncology,6,7963
+2023-08-10,Mayo Clinic,Orthopedics,8,5554
+2024-09-18,Mayo Clinic,Neurology,7,8625
+2024-08-05,Mayo Clinic,Orthopedics,7,7060
+2024-08-10,Mayo Clinic (Rochester),Orthopedics,6,11596
+2023-12-17,Mayo Clinic (Rochester),Orthopedics,2,8539
+2025-01-05,Mayo Clinic (Rochester),Orthopedics,8,3056
+2024-03-07,Mayo Clinic (Rochester),Neurology,7,8435
+2024-10-14,Mayo Clinic (Rochester),Oncology,5,10473
+2024-10-18,Mayo Clinic (Rochester),Oncology,3,2471
+2024-03-13,Mayo Clinic,Oncology,6,8964
+2022-08-19,Mayo Clinic,Cardiology,2,13001
+2022-10-29,Mayo Clinic (Rochester),Orthopedics,6,9152
+2022-11-26,Mayo Clinic (Rochester),Neurology,6,12677
+2025-02-23,Mayo Clinic (Rochester),Cardiology,2,13549
+2023-03-16,Mayo Clinic,Neurology,3,10535
+2023-07-28,Mayo Clinic,Orthopedics,4,0
+2025-01-05,Mayo Clinic,Neurology,6,11424
+2025-12-24,Mayo Clinic (Rochester),Orthopedics,2,14480
+2025-04-09,Mayo Clinic,Orthopedics,6,5279
+2025-03-14,Mayo Clinic,Neurology,3,9066
+2024-10-17,Mayo Clinic,Cardiology,6,7743
+2023-08-07,Mayo Clinic,Oncology,7,9994
+2025-05-30,Mayo Clinic,Neurology,2,7408
+2022-01-14,Mayo Clinic (Rochester),Orthopedics,8,11631
+2025-12-05,Mayo Clinic (Rochester),Cardiology,2,7529
+2024-04-04,Mayo Clinic,Cardiology,3,6994
+2023-07-04,Mayo Clinic,Orthopedics,2,3951
+2025-12-22,Mayo Clinic (Rochester),Orthopedics,9,14761
+2025-05-14,Mayo Clinic (Rochester),Orthopedics,3,2115
+2024-08-20,Mayo Clinic,Orthopedics,8,0
+2022-12-21,Mayo Clinic (Rochester),Oncology,5,9337
+2022-05-24,Mayo Clinic (Rochester),Oncology,7,11827
+2023-03-17,Mayo Clinic (Rochester),Neurology,8,7358
+2024-09-21,Mayo Clinic,Orthopedics,2,4651
+2024-08-20,Mayo Clinic (Rochester),Neurology,7,0
+2024-04-21,Mayo Clinic,Cardiology,8,3358
+2022-02-16,Mayo Clinic (Rochester),Neurology,2,8480
+2023-08-03,Mayo Clinic (Rochester),Oncology,8,9971
+2025-12-24,Mayo Clinic (Rochester),Cardiology,7,5456
+2025-06-24,Mayo Clinic,Neurology,4,11776
+2024-02-10,Mayo Clinic (Rochester),Oncology,2,0
+2025-05-21,Mayo Clinic (Rochester),Oncology,2,5429
+2023-10-09,Mayo Clinic (Rochester),Neurology,2,3478
+2024-12-20,Mayo Clinic (Rochester),Neurology,7,12018
+2022-05-07,Mayo Clinic (Rochester),Cardiology,3,5262
+2024-01-12,Mayo Clinic,Oncology,3,14123
+2025-05-24,Mayo Clinic (Rochester),Oncology,5,6080
+2025-10-26,Mayo Clinic (Rochester),Orthopedics,5,9720
+2025-08-02,Mayo Clinic (Rochester),Oncology,9,3056
+2024-10-01,Mayo Clinic (Rochester),Oncology,8,9060
+2023-10-17,Mayo Clinic,Oncology,8,2226
+2025-08-05,Mayo Clinic,Orthopedics,3,11195
+2024-12-15,Mayo Clinic (Rochester),Cardiology,2,5441
+2023-12-13,Mayo Clinic,Cardiology,3,0
+2024-05-10,Mayo Clinic,Neurology,3,8374
+2022-11-04,Mayo Clinic (Rochester),Cardiology,9,10241
+2025-05-29,Mayo Clinic,Oncology,9,2908
+2023-10-30,Mayo Clinic,Neurology,9,12797
+2023-09-26,Mayo Clinic,Orthopedics,6,13607
+2023-06-28,Mayo Clinic (Rochester),Oncology,4,6362
+2025-09-11,Mayo Clinic (Rochester),Cardiology,2,13722
+2023-02-12,Mayo Clinic (Rochester),Orthopedics,2,0
+2022-11-11,Mayo Clinic,Orthopedics,4,13895
+2022-09-14,Mayo Clinic,Neurology,8,10962
+2023-03-21,Mayo Clinic (Rochester),Cardiology,5,3859
+2025-02-23,Mayo Clinic (Rochester),Cardiology,8,2290
+2023-08-06,Mayo Clinic,Orthopedics,2,11546
+2022-07-10,Mayo Clinic (Rochester),Oncology,9,6508
+2022-10-13,Mayo Clinic (Rochester),Oncology,6,5993
+2024-09-01,Mayo Clinic,Cardiology,3,11181
+2023-12-28,Mayo Clinic,Cardiology,8,5643
+2023-01-17,Mayo Clinic (Rochester),Neurology,9,10196
+2023-03-09,Mayo Clinic,Orthopedics,7,14182
+2025-01-05,Mayo Clinic,Orthopedics,4,4891
+2023-09-06,Mayo Clinic,Orthopedics,3,4980
+2025-11-19,Mayo Clinic (Rochester),Neurology,8,8049
+2023-05-09,Mayo Clinic (Rochester),Oncology,5,5489
+2024-07-09,Mayo Clinic (Rochester),Orthopedics,5,5371
+2024-03-28,Mayo Clinic,Cardiology,2,10513
+2022-07-12,Mayo Clinic,Neurology,8,3887
+2025-11-15,Mayo Clinic (Rochester),Cardiology,5,5225
+2023-06-19,Mayo Clinic (Rochester),Oncology,8,11047
+2022-10-15,Mayo Clinic,Neurology,8,6448
+2022-03-22,Mayo Clinic,Oncology,3,11164
+2025-06-14,Mayo Clinic (Rochester),Oncology,3,6589
+2024-12-23,Mayo Clinic,Neurology,3,4730
+2023-06-15,Mayo Clinic (Rochester),Oncology,6,4409
+2023-05-09,Mayo Clinic (Rochester),Orthopedics,3,9706
+2024-12-27,Mayo Clinic (Rochester),Neurology,2,3816
+2024-04-25,Mayo Clinic (Rochester),Orthopedics,4,13729
+2022-08-14,Mayo Clinic,Orthopedics,5,8081
+2023-02-07,Mayo Clinic (Rochester),Oncology,9,11758
+2023-06-30,Mayo Clinic (Rochester),Neurology,5,4336
+2024-06-26,Mayo Clinic (Rochester),Neurology,6,2135
+2025-06-01,Mayo Clinic (Rochester),Neurology,9,9109
+2022-01-27,Mayo Clinic (Rochester),Orthopedics,3,13496
+2022-09-27,Mayo Clinic,Cardiology,7,3962
+2023-10-16,Mayo Clinic (Rochester),Cardiology,9,4639
+2022-04-09,Mayo Clinic (Rochester),Neurology,3,8011
+2023-05-28,Mayo Clinic,Neurology,4,13117
+2025-06-21,Mayo Clinic,Orthopedics,6,2157
+2025-09-18,Mayo Clinic,Orthopedics,3,7940
+2023-06-13,Mayo Clinic (Rochester),Neurology,2,10590
+2022-01-08,Mayo Clinic (Rochester),Cardiology,6,3531
+2025-07-07,Mayo Clinic (Rochester),Neurology,9,8586
+2023-01-13,Mayo Clinic,Cardiology,9,2230
+2024-08-28,Mayo Clinic,Orthopedics,7,8177
+2022-12-01,Mayo Clinic,Orthopedics,6,13911
+2024-04-04,Mayo Clinic,Oncology,4,0
+2025-09-13,Mayo Clinic,Neurology,6,12091
+2025-04-30,Mayo Clinic (Rochester),Cardiology,5,10177
+2024-10-05,Mayo Clinic,Orthopedics,9,8952
+2025-09-01,Mayo Clinic (Rochester),Neurology,9,8038
+2022-09-21,Mayo Clinic,Oncology,6,10012
+2022-02-12,Mayo Clinic (Rochester),Neurology,3,6454
+2022-03-22,Mayo Clinic,Oncology,2,13633
+2022-09-20,Mayo Clinic (Rochester),Oncology,3,3722
+2024-08-13,Mayo Clinic,Neurology,4,7827
+2025-03-25,Mayo Clinic,Neurology,8,0
+2025-01-07,Mayo Clinic (Rochester),Oncology,4,3729
+2023-11-28,Mayo Clinic,Oncology,6,11112
+2022-11-06,Mayo Clinic (Rochester),Cardiology,9,14919
+2025-08-25,Mayo Clinic (Rochester),Cardiology,6,2569
+2022-08-01,Mayo Clinic (Rochester),Orthopedics,9,10519
+2025-12-23,Mayo Clinic,Oncology,8,14332
+2022-10-03,Mayo Clinic,Neurology,9,11972
+2025-02-13,Mayo Clinic,Orthopedics,3,4049
+2025-02-18,Mayo Clinic (Rochester),Cardiology,9,6503
+2024-04-08,Mayo Clinic (Rochester),Neurology,9,6279
+2022-05-19,Mayo Clinic (Rochester),Oncology,8,13979
+2023-10-18,Mayo Clinic,Cardiology,6,11732
+2023-04-02,Mayo Clinic (Rochester),Oncology,3,3310
+2022-09-30,Mayo Clinic,Orthopedics,6,0
+2022-07-12,Mayo Clinic,Neurology,2,11625
+2025-07-15,Mayo Clinic,Cardiology,2,5504
+2022-06-12,Mayo Clinic (Rochester),Neurology,5,4181
+2024-12-18,Mayo Clinic (Rochester),Orthopedics,2,9699
+2023-07-21,Mayo Clinic,Orthopedics,9,8112
+2022-04-03,Mayo Clinic,Cardiology,2,10137
+2023-08-16,Mayo Clinic (Rochester),Cardiology,3,6334
+2022-02-27,Mayo Clinic (Rochester),Oncology,6,14920
+2024-10-31,Mayo Clinic,Neurology,2,9166
+2024-01-12,Mayo Clinic (Rochester),Orthopedics,5,6803
+2022-12-20,Mayo Clinic (Rochester),Orthopedics,6,7905
+2024-09-20,Mayo Clinic (Rochester),Orthopedics,6,0
+2025-04-02,Mayo Clinic,Orthopedics,7,4093
+2022-07-09,Mayo Clinic (Rochester),Oncology,6,14038
+2024-04-23,Mayo Clinic,Cardiology,7,12430
+2023-04-25,Mayo Clinic (Rochester),Oncology,4,14444
+2023-04-26,Mayo Clinic,Orthopedics,7,3820
+2025-04-28,Mayo Clinic (Rochester),Oncology,6,2650
+2022-10-09,Mayo Clinic,Orthopedics,9,0
+2022-04-14,Mayo Clinic (Rochester),Neurology,8,2114
+2022-02-25,Mayo Clinic (Rochester),Oncology,9,6598
+2024-12-05,Mayo Clinic (Rochester),Orthopedics,9,12763
+2024-05-18,Mayo Clinic,Orthopedics,3,7686
+2022-11-29,Mayo Clinic (Rochester),Neurology,6,12326
+2022-06-23,Mayo Clinic (Rochester),Neurology,7,11872
+2024-11-25,Mayo Clinic (Rochester),Cardiology,7,5501
+2022-12-02,Mayo Clinic (Rochester),Oncology,8,14304
+2023-09-12,Mayo Clinic,Cardiology,6,3407
+2022-08-31,Mayo Clinic (Rochester),Orthopedics,8,9828
+2025-03-04,Mayo Clinic (Rochester),Neurology,3,5696
+2025-05-08,Mayo Clinic (Rochester),Cardiology,7,7549
+2022-02-05,Mayo Clinic (Rochester),Oncology,8,6104
+2023-08-15,Mayo Clinic,Neurology,4,10851
+2025-05-30,Mayo Clinic (Rochester),Neurology,7,0
+2025-02-05,Mayo Clinic (Rochester),Neurology,8,3146
+2025-10-01,Mayo Clinic (Rochester),Orthopedics,4,12689
+2023-01-11,Mayo Clinic,Neurology,7,6364
+2023-02-03,Mayo Clinic,Orthopedics,3,5062
+2022-01-09,Mayo Clinic,Orthopedics,6,5393
+2024-05-20,Mayo Clinic,Cardiology,7,11604
+2022-05-12,Mayo Clinic (Rochester),Neurology,9,2759
+2024-10-14,Mayo Clinic,Neurology,4,8228
+2023-04-09,Mayo Clinic,Neurology,2,9366
+2022-01-15,Mayo Clinic (Rochester),Cardiology,5,5112
+2022-02-27,Mayo Clinic,Cardiology,7,5635
+2024-06-24,Mayo Clinic,Orthopedics,6,8443
+2023-12-27,Mayo Clinic,Neurology,6,5975
+2023-04-04,Mayo Clinic (Rochester),Cardiology,9,2309
+2025-06-06,Mayo Clinic,Oncology,3,7834
+2022-08-14,Mayo Clinic,Cardiology,3,10227
+2023-08-21,Mayo Clinic (Rochester),Oncology,2,11114
+2024-02-08,Mayo Clinic,Oncology,2,8859
+2022-03-12,Mayo Clinic (Rochester),Oncology,3,9129
+2023-11-18,Mayo Clinic,Neurology,4,5177
+2023-09-10,Mayo Clinic (Rochester),Neurology,9,5584
+2022-03-22,Mayo Clinic,Neurology,9,10465
+2025-10-23,Mayo Clinic,Neurology,9,5720
+2025-12-31,Mayo Clinic (Rochester),Oncology,2,6307
+2022-03-14,Mayo Clinic,Orthopedics,7,4055
+2023-05-01,Mayo Clinic,Orthopedics,9,13685
+2022-05-25,Mayo Clinic (Rochester),Oncology,4,10135
+2022-08-22,Mayo Clinic (Rochester),Oncology,4,13282
+2024-09-15,Mayo Clinic,Cardiology,8,8424
+2024-07-07,Mayo Clinic (Rochester),Cardiology,7,11536
+2024-09-11,Mayo Clinic,Orthopedics,2,11717
+2023-09-14,Mayo Clinic (Rochester),Oncology,8,5746
+2025-09-03,Mayo Clinic (Rochester),Orthopedics,8,3735
+2023-03-10,Mayo Clinic,Neurology,8,5230
+2024-05-29,Mayo Clinic,Orthopedics,5,3585
+2024-12-28,Mayo Clinic,Neurology,5,0
+2022-08-12,Mayo Clinic (Rochester),Orthopedics,8,14738
+2022-10-07,Mayo Clinic (Rochester),Cardiology,2,12395
+2023-11-08,Mayo Clinic,Oncology,4,9808
+2023-01-05,Mayo Clinic (Rochester),Cardiology,3,6681
+2025-05-10,Mayo Clinic (Rochester),Neurology,5,3689
+2025-06-25,Mayo Clinic,Cardiology,3,11595
