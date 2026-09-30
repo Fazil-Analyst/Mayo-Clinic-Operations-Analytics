@@ -1,4 +1,3 @@
-
 This repository contains a Power BI project analyzing Mayo Clinic’s clinical throughput and financial performance across key medical departments (Cardiology, Neurology, Oncology, and Orthopedics). The project integrates historical (2022–2025) and current (2026) datasets, applying Python ETL automation, live SQL storage, and executive Power BI dashboards to deliver insights into operational billing, ward efficiency, patient volume, and Average Length of Stay (ALOS). Dashboards are designed to help hospital administrators and healthcare stakeholders understand facility capacity, clinical bottlenecks, and revenue momentum in real time.
 
 🔄 Pipeline Workflow
@@ -47,5 +46,5 @@ This repository contains a Power BI project analyzing Mayo Clinic’s clinical t
 
 🖼️ Screenshots & Demos
 
-* **Dashboard Snapshot – Healthcare Operations Analytics:** [Insert your GitHub image link here, e.g., `[https://github.com/YourUsername/Mayo-Clinic-Operations-Analytics/blob/main/dashboard_snapshot.png](https://github.com/YourUsername/Mayo-Clinic-Operations-Analytics/blob/main/dashboard_snapshot.png)`]
+* **Dashboard Snapshot – Healthcare Operations Analytics:** Mayo-Clinic-Operations-Analytics-dashboard_snapshot.png
 * **Pipeline Flow:** CSV → Python ETL → SQL → Power BI → Dashboard
